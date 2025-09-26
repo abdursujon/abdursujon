@@ -1,16 +1,39 @@
-## Hi there 👋
+💻 <h1> About Me</h1> <hr>
+<p>
+Hello there! I’m a full stack software developer who is also pursuing a BSc in Computer Science at the University  of Salford. 
+I have a couple of years hands-on experience in web development and right now I am exploring software security, REST APIs, AI and Data Mining.
+Passionate about creating clean, user-friendly interfaces, learning new technologies, and contributing to meaningful projects.
+</p>
 
-<!--
-**abdursujon/abdursujon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Profile
 
-Here are some ideas to get you started:
+🎓 Education:
+BSc Computer Science with Professional Experience — University of Salford
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 Programming Languages:
+Java, JavaScript, PHP, C# (Familiar)
+
+🌐 Full-Stack Web Development:
+
+Frontend: HTML, CSS, SCSS/SASS, Bootstrap, JavaScript
+
+Backend: PHP, PHPMailer, XAMPP
+
+Tools & Platforms: Git & GitHub, VS Code, PHPStorm
+
+Design & UI/UX: Web Design, Figma, UI/UX, Logo Design, Photoshop, Typography
+
+Other Skills: Video Editing, Web Template Design
+
+🖥 Desktop Software Development:
+Java, JavaFX, C#, .NET
+Familiar with SCRUM & Waterfall methodologies
+
+🗄 Databases:
+SQL, MySQL
+
+🖧 Core Concepts & Operating Systems:
+Data Structures & Algorithms
+Client-Server Systems
+Network & Security Basics
+Linux, Windows
