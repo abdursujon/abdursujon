@@ -13,15 +13,10 @@ BSc Computer Science with Professional Experience — University of Salford
 Java, JavaScript, PHP, C# (Familiar)
 
 🌐 Full-Stack Web Development:
-
 Frontend: HTML, CSS, SCSS/SASS, Bootstrap, JavaScript
-
 Backend: PHP, PHPMailer, XAMPP
-
 Tools & Platforms: Git & GitHub, VS Code, PHPStorm
-
 Design & UI/UX: Web Design, Figma, UI/UX, Logo Design, Photoshop, Typography
-
 Other Skills: Video Editing, Web Template Design
 
 🖥 Desktop Software Development:
