@@ -5,8 +5,6 @@ I have a couple of years hands-on experience in web development and right now I 
 Passionate about creating clean, user-friendly interfaces, learning new technologies, and contributing to meaningful projects.
 </p>
 
-📌 Profile
-
 🎓 Education:
 BSc Computer Science with Professional Experience — University of Salford
 
