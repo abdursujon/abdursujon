@@ -8,6 +8,7 @@ Passionate about creating clean, user-friendly interfaces, learning new technolo
 <h1>🎓 Education </h1>
 BSc Computer Science with Professional Experience — University of Salford
 
+<h1>Skills</h1>
 🖥 Programming Languages:
 Java, JavaScript, PHP, C# (Familiar)
 
