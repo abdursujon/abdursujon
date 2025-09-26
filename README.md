@@ -1,4 +1,4 @@
-💻 <h1> About Me</h1>
+<h1> About Me 💻</h1>
 <p>
 Hello there! I’m a full stack software developer who is also pursuing a BSc in Computer Science at the University  of Salford. 
 I have a couple of years hands-on experience in web development and right now I am exploring software security, REST APIs, AI and Data Mining.
