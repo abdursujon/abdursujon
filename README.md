@@ -4,7 +4,9 @@ Hello there! I’m passionate about software developement and also pursuing a BS
 I have a couple of years hands-on experience in web development and right now I am exploring software security, REST APIs, AI and Data Mining.
 Passionate about creating clean, user-friendly interfaces, learning new technologies, and contributing to meaningful projects.
 </p> 
+
 ---
+
 <h1>🎓 Education </h1>
 BSc Computer Science with Professional Experience — University of Salford
 
