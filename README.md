@@ -19,7 +19,7 @@ Java, JavaScript, PHP, C# (Familiar)
 ---
 
 🌐 Full-Stack Web Development:
-Frontend: HTML, CSS, SCSS/SASS, Bootstrap, JavaScript
+<p>Frontend: HTML, CSS, SCSS/SASS, Bootstrap, JavaScript</p>
 Backend: PHP, PHPMailer, XAMPP
 Tools & Platforms: Git & GitHub, VS Code, PHPStorm
 Design & UI/UX: Web Design, Figma, UI/UX, Logo Design, Photoshop, Typography
